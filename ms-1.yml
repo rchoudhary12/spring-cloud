@@ -1,6 +1,6 @@
 configuration:  
-  projectName: configclientms-1
+  projectName: ms-1
 server:
-  port: 8000
+  port: 8081
 message:
   greeting: Hello from the configuration of ms-1!
