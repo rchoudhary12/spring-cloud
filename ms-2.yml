@@ -1,0 +1,6 @@
+configuration:  
+  projectName: ms-2
+server:
+  port: 8082
+message:
+  greeting: Hello from the configuration of ms-2 !!!!
